@@ -10,8 +10,9 @@
 2. [🎓 Education & Tracks](#education--tracks)  
 3. [💡 Projects](#projects)  
 4. [📊 Language Stats](#language-stats)  
-5. [🔗 Connect With Me](#connect-with-me)  
-6. [💭 Personal Thoughts](#personal-thoughts)
+5. [🛠️ Tech & Tools](#tech--tools)  
+6. [🔗 Connect With Me](#connect-with-me)  
+7. [💭 Personal Thoughts](#personal-thoughts)
 
 ---
 
@@ -46,13 +47,13 @@ I’m always eager to collaborate, learn, and take on new challenges. Let’s bu
 
 I work on a variety of projects that not only challenge me but also showcase my skills across different technologies:
 
-- **[Safaribeton](https://github.com/W-gerber/Safaribeton):**  
+- **[Safaribeton](https://github.com/W-gerber/Safaribeton)**  
   A website project built with CSS that displays precast concrete products like lintels, retaining walls, and fences with a modern, user-friendly design.
 
-- **[project-dashboard](https://github.com/W-gerber/project-dashboard):**  
+- **[project-dashboard](https://github.com/W-gerber/project-dashboard)**  
   A dynamic project dashboard built with JavaScript that helps visualize and manage project data efficiently.
 
-- **[Hand-Gesture-Recognition](https://github.com/W-gerber/Hand-Gesture-Recognition):**  
+- **[Hand-Gesture-Recognition](https://github.com/W-gerber/Hand-Gesture-Recognition)**  
   A Python-based application utilizing OpenCV and MediaPipe for real-time hand gesture recognition, demonstrating practical use of machine learning and computer vision.
 
 For more details, explore all my projects on [GitHub](https://github.com/W-gerber?tab=repositories).
@@ -66,6 +67,21 @@ Here's a snapshot of the programming languages I use, updated dynamically to ref
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W-gerber&layout=compact&theme=gitdocify&bg_color=0d1117)](https://github.com/W-gerber)
 
 *The chart above is configured to blend seamlessly with GitHub's dark mode.*
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+</p>
 
 ---
 
